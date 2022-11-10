@@ -23,7 +23,7 @@
     "@vue/cli-plugin-babel": "~4.3.0",
     "@vue/cli-plugin-typescript": "~4.3.0",
     "@vue/cli-service": "~4.3.0",
-    "electron": "8.2.3",
+    "electron": "18.3.7",
     "spectron": "10.0.1",
     "jest": "^25.5.2",
     "typescript": "~3.8.3",
